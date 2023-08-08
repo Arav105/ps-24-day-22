@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\ps-24 day-22\ps-24\bin\Debug\ps-24.exe.config
+C:\Users\Admin\source\repos\ps-24 day-22\ps-24\bin\Debug\ps-24.exe
+C:\Users\Admin\source\repos\ps-24 day-22\ps-24\bin\Debug\ps-24.pdb
+C:\Users\Admin\source\repos\ps-24 day-22\ps-24\obj\Debug\ps-24.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ps-24 day-22\ps-24\obj\Debug\ps-24.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\ps-24 day-22\ps-24\obj\Debug\ps-24.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ps-24 day-22\ps-24\obj\Debug\ps-24.exe
+C:\Users\Admin\source\repos\ps-24 day-22\ps-24\obj\Debug\ps-24.pdb
